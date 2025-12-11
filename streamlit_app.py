@@ -1,4 +1,4 @@
 import streamlit as st
 
 st.title(":red[hello princess intan]")
-st.write(":yellow[Let's start the fun game]")
+st.write(":yellow[time to go home]")
